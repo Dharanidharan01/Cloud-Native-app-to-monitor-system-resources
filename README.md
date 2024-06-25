@@ -17,6 +17,10 @@ Deployment on AWS EKS (Kubernetes)
 
 Monitoring system resources
 
+![image](https://github.com/Dharanidharan01/Cloud-Native-app-to-monitor-system-resources/assets/110535314/0a691e1c-3ee4-4b57-b99f-66cb88e9cca9)
+
+![image](https://github.com/Dharanidharan01/Cloud-Native-app-to-monitor-system-resources/assets/110535314/5bf95f89-80e7-4f93-934f-c7dce2ee5427)
+
 
 ## Setup Instructions
 
